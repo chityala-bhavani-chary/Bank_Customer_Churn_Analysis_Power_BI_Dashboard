@@ -198,13 +198,14 @@ Based on the analysis, the following strategies can help reduce churn:
 
 ## Dashboard Preview
 
-(Add a screenshot of your Power BI dashboard here)
+![Customer_Overview](Customer_Overview.png)
 
-![Customer Overview](Customer_Overview.png)
+![Churn_Analysis](Churn_Analysis.png)
 
-![Churn Analysis](Churn_Analysis.png)
 
-![Product & Credit Analysis](Product&CreditAnalysis.png)
+![Product&Credit_Analysis](Product&Credit_Analysis.png)
+
+![Key_Insights](Key_Insights.png)
 
 ---
 
